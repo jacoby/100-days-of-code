@@ -12,8 +12,16 @@
 
 **Today's Progress**: Now I have some functionality going with the JS. Tweaked the CSS some, created repo, etc.
 
-**Thoughts:** I have the old JS commented next to the new. It'd be interesting to see the differences between how I did it before and now. 
+**Thoughts:** I have the old JS commented next to the new. It'd be interesting to see the differences between how I did it before and now.
 
 Need to get the beeps in as well.
+
+**Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
+
+### Day 2: January 4, 2018 (PracTimer)
+
+**Today's Progress**: Got the HTML5Audio Beeps going again.
+
+**Thoughts:** A problem is that there are points where the interval _should_ be stopped and deleted, but that gets ignored. This is not good. Maybe should test cross-platform, but if Chrome does it, _a lot_ of browsers will do it as well.
 
 **Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
