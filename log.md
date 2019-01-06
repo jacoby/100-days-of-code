@@ -35,3 +35,13 @@ Need to get the beeps in as well.
 **Thoughts:** This was not the most productive. I like all the changes, but there was a lot more "What is the change that is needed?" than coding those changes.
 
 **Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
+
+
+### Day 4: January 06, 2019 (DayLog)
+
+**Today's Progress**: I took it from new repo to program with POD and --help
+
+**Thoughts:** I am happy with this. It relies on a LOT of previous experience I have with Perl.
+
+**Link to work:** [DayLog](https://github.com/jacoby/DayLog/)
+
