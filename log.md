@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## Added to make the Markdown Linter happy
+
 ### Day 0: January 2, 2018 (PracTimer)
 
 **Today's Progress**: Worked out keyboard and swipe UI for PWA version of PT
@@ -23,5 +25,13 @@ Need to get the beeps in as well.
 **Today's Progress**: Got the HTML5Audio Beeps going again.
 
 **Thoughts:** A problem is that there are points where the interval _should_ be stopped and deleted, but that gets ignored. This is not good. Maybe should test cross-platform, but if Chrome does it, _a lot_ of browsers will do it as well.
+
+**Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
+
+### Day 3: January 5, 2018 (PracTimer)
+
+**Today's Progress**: UI simplified: removed keyboard controls, tap does start/stop. Changed the landscape CSS a little to make the font larger.
+
+**Thoughts:** This was not the most productive. I like all the changes, but there was a lot more "What is the change that is needed?" than coding those changes.
 
 **Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
