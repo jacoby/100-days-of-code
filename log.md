@@ -45,3 +45,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [DayLog](https://github.com/jacoby/DayLog/)
 
+
+### Day 5: January 08, 2019 (Fimble)
+
+**Today's Progress**: Minimal. Hit well-trod ground (although using a static site for the callback is new and interesting) but I am no closer to a tool I do not have to hover over
+
+**Thoughts:** The FitBit OAuth 2.0 API continues to frustrate me, but once I have consistent tokens, the rest is just curl and such.
+
+**Link to work:** [Fimble](https://github.com/jacoby/Fimble)
+
