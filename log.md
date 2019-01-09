@@ -54,3 +54,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble)
 
+
+### Day 6: January 09, 2019 (Blog)
+
+**Today's Progress**: Played with Dice and Levenshtein and blogged on it
+
+**Thoughts:** There's something to the Dice Coefficient, but it isn't, as advertised, 'better than Levenshtein'.
+
+**Link to work:** [Blog](https://github.com/jacoby/jacoby.github.io)
+
