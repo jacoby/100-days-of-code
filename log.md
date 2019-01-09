@@ -2,7 +2,7 @@
 
 ## Added to make the Markdown Linter happy
 
-### Day 0: January 2, 2018 (PracTimer)
+### Day 0: January 2, 2019 (PracTimer)
 
 **Today's Progress**: Worked out keyboard and swipe UI for PWA version of PT
 
@@ -10,7 +10,7 @@
 
 **Link to work:** [PracTimer App](https://practimer.me/)
 
-### Day 1: January 3, 2018 (PracTimer)
+### Day 1: January 3, 2019 (PracTimer)
 
 **Today's Progress**: Now I have some functionality going with the JS. Tweaked the CSS some, created repo, etc.
 
@@ -20,7 +20,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
 
-### Day 2: January 4, 2018 (PracTimer)
+### Day 2: January 4, 2019 (PracTimer)
 
 **Today's Progress**: Got the HTML5Audio Beeps going again.
 
@@ -28,7 +28,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
 
-### Day 3: January 5, 2018 (PracTimer)
+### Day 3: January 5, 2019 (PracTimer)
 
 **Today's Progress**: UI simplified: removed keyboard controls, tap does start/stop. Changed the landscape CSS a little to make the font larger.
 
