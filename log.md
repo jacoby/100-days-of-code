@@ -72,3 +72,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [Blog](https://jacoby.github.io/)
 
+
+### Day 8: January 10, 2019 (Blog)
+
+**Today's Progress**: Blogged on code dealing with FitBit
+
+**Thoughts:** Telling people about it is almost as important, and I discovered some aspects about FitBit token management that I will want to integrate into my tooling and put in Finble
+
+**Link to work:** [Blog](https://jacoby.github.io/)
+
