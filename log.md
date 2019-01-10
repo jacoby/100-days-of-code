@@ -46,7 +46,7 @@ Need to get the beeps in as well.
 **Link to work:** [DayLog](https://github.com/jacoby/DayLog/)
 
 
-### Day 5: January 08, 2019 (Fimble)
+### Day 5: January 07, 2019 (Fimble)
 
 **Today's Progress**: Minimal. Hit well-trod ground (although using a static site for the callback is new and interesting) but I am no closer to a tool I do not have to hover over
 
@@ -55,11 +55,20 @@ Need to get the beeps in as well.
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble)
 
 
-### Day 6: January 09, 2019 (Blog)
+### Day 6: January 08, 2019 (Blog)
 
 **Today's Progress**: Played with Dice and Levenshtein and blogged on it
 
 **Thoughts:** There's something to the Dice Coefficient, but it isn't, as advertised, 'better than Levenshtein'.
 
 **Link to work:** [Blog](https://github.com/jacoby/jacoby.github.io)
+
+
+### Day 7: January 9, 2019 (Blog)
+
+**Today's Progress**: Wrote code dealing with FitBit
+
+**Thoughts:** Was too tired with a too-busy day to finish up on this, but I did it 
+
+**Link to work:** [Blog](https://jacoby.github.io/)
 
