@@ -81,3 +81,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [Blog](https://jacoby.github.io/)
 
+
+### Day 9: January 12, 2019 (Fimble)
+
+**Today's Progress**: Alarm Tools
+
+**Thoughts:** Need to toolify this and perhaps make it into a CPAN-ready tool.
+
+**Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
+
