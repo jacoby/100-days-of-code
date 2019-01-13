@@ -99,3 +99,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [CanvasArt](https://github.com/jacoby/CanvasArt/)
 
+
+### Day 11: January 13, 2019 (CanvasArt)
+
+**Today's Progress**: Made a very psychedelic thing with dots
+
+**Thoughts:** I need to convert to SVG
+
+**Link to work:** [CanvasArt](https://github.com/jacoby/CanvasArt)
+
