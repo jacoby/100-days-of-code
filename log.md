@@ -90,3 +90,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
 
+
+### Day 10: January 13, 2019 (CanvasArt)
+
+**Today's Progress**: Played with an idea. Did not get far/
+
+**Thoughts:** Really need to learn SVG in HTML5 soon
+
+**Link to work:** [CanvasArt](https://github.com/jacoby/CanvasArt/)
+
