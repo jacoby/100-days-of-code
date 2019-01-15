@@ -108,3 +108,21 @@ Need to get the beeps in as well.
 
 **Link to work:** [CanvasArt](https://github.com/jacoby/CanvasArt)
 
+
+### Day 12: January 15, 2019 (Guitr)
+
+**Today's Progress**: Played some with JSON to try to move it to more modern style
+
+**Thoughts:** MAN I have learned a lot. And forgotten a lot
+
+**Link to work:** [Guitr](https://github.com/jacoby/Guitr/)
+
+
+### Day 12: January 15, 2019 (Fimble)
+
+**Today's Progress**: Added POD to my FitBit Alarm adder
+
+**Thoughts:** POD is Good
+
+**Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
+
