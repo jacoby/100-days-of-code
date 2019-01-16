@@ -126,3 +126,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
 
+
+### Day 13: January 16, 2019 (Fimble)
+
+**Today's Progress**: Added a pull for sleep, which will eventually dump into the DB.
+
+**Thoughts:** Had minor goofiness working through the API at first. Starting to consider the lib.
+
+**Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
+
