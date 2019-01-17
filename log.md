@@ -135,3 +135,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
 
+
+### Day 14: January 17, 2019 (Fimble)
+
+**Today's Progress**: Started with logging water
+
+**Thoughts:** Always remember to check to see if your dinguses work before testing, because you cannot tell if the issue is your code or your token.
+
+**Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
+
