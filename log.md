@@ -36,8 +36,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [PT2.0](https://github.com/jacoby/PT2.0)
 
-
-### Day 4: January 06, 2019 (DayLog)
+### Day 4: January 6, 2019 (DayLog)
 
 **Today's Progress**: I took it from new repo to program with POD and --help
 
@@ -45,8 +44,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [DayLog](https://github.com/jacoby/DayLog/)
 
-
-### Day 5: January 07, 2019 (Fimble)
+### Day 5: January 7, 2019 (Fimble)
 
 **Today's Progress**: Minimal. Hit well-trod ground (although using a static site for the callback is new and interesting) but I am no closer to a tool I do not have to hover over
 
@@ -54,8 +52,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble)
 
-
-### Day 6: January 08, 2019 (Blog)
+### Day 6: January 8, 2019 (Blog)
 
 **Today's Progress**: Played with Dice and Levenshtein and blogged on it
 
@@ -63,15 +60,13 @@ Need to get the beeps in as well.
 
 **Link to work:** [Blog](https://github.com/jacoby/jacoby.github.io)
 
-
 ### Day 7: January 9, 2019 (Blog)
 
 **Today's Progress**: Wrote code dealing with FitBit
 
-**Thoughts:** Was too tired with a too-busy day to finish up on this, but I did it 
+**Thoughts:** Was too tired with a too-busy day to finish up on this, but I did it
 
 **Link to work:** [Blog](https://jacoby.github.io/)
-
 
 ### Day 8: January 10, 2019 (Blog)
 
@@ -81,8 +76,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [Blog](https://jacoby.github.io/)
 
-
-### Day 9: January 12, 2019 (Fimble)
+### Day 9: January 11, 2019 (Fimble)
 
 **Today's Progress**: Alarm Tools
 
@@ -90,15 +84,13 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
 
-
-### Day 10: January 13, 2019 (CanvasArt)
+### Day 10: January 12, 2019 (CanvasArt)
 
 **Today's Progress**: Played with an idea. Did not get far/
 
 **Thoughts:** Really need to learn SVG in HTML5 soon
 
 **Link to work:** [CanvasArt](https://github.com/jacoby/CanvasArt/)
-
 
 ### Day 11: January 13, 2019 (CanvasArt)
 
@@ -108,8 +100,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [CanvasArt](https://github.com/jacoby/CanvasArt)
 
-
-### Day 12: January 15, 2019 (Guitr)
+### Day 12: January 14, 2019 (Guitr)
 
 **Today's Progress**: Played some with JSON to try to move it to more modern style
 
@@ -117,8 +108,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [Guitr](https://github.com/jacoby/Guitr/)
 
-
-### Day 12: January 15, 2019 (Fimble)
+### Day 12: January 14, 2019 (Fimble)
 
 **Today's Progress**: Added POD to my FitBit Alarm adder
 
@@ -126,8 +116,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
 
-
-### Day 13: January 16, 2019 (Fimble)
+### Day 13: January 15, 2019 (Fimble)
 
 **Today's Progress**: Added a pull for sleep, which will eventually dump into the DB.
 
@@ -135,8 +124,7 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
 
-
-### Day 14: January 17, 2019 (Fimble)
+### Day 14: January 16, 2019 (Fimble)
 
 **Today's Progress**: Started with logging water
 
@@ -144,3 +132,10 @@ Need to get the beeps in as well.
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
 
+### Day 15: January 17, 2019 (Fimble)
+
+**Today's Progress**: I looked at making it so I can automate the refresh on Fitbit tokens, but I do not think I can
+
+**Thoughts:** They cant all be winners
+
+**Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
