@@ -139,3 +139,12 @@ Need to get the beeps in as well.
 **Thoughts:** They cant all be winners
 
 **Link to work:** [Fimble](https://github.com/jacoby/Fimble/)
+
+### Day 16: January 18, 2019 (Fimble)
+
+**Today's Progress**: Started from first day of sleep logging rather than last. Next, once we have data, would be to check to see if there is a record for DAY and go on if it exists.
+
+**Thoughts:** Some days are better than others.
+
+**Link to work:** [Fimble](https://github.com/jacoby/Fimble)
+
