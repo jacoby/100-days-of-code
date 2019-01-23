@@ -184,3 +184,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [SVGTest](https://github.com/jacoby/SVGTest/)
 
+
+### Day 21: January 23, 2019 (SVGTest)
+
+**Today's Progress**: Added LocalStorage, mostly
+
+**Thoughts:** It is good to know everything you needed to do and just do it.
+
+**Link to work:** [SVGTest](https:/github.com/jacoby/SVGTest)
+
