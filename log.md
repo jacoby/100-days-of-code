@@ -175,3 +175,12 @@ Need to get the beeps in as well.
 **Thoughts:** Not happy with the UX, but I know that, given an indication of what is desired, I can make the SVG display it.
 
 **Link to work:** [Fimble](https://github.com/jacoby/SVGTest/)
+
+### Day 20: January 23, 2019 (SVGTest)
+
+**Today's Progress**: Have added the limits before and after certain frets
+
+**Thoughts:** Being able to use display:hide within the image makes this so easy
+
+**Link to work:** [SVGTest](https://github.com/jacoby/SVGTest/)
+
