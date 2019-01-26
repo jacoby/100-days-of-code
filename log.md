@@ -193,3 +193,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [SVGTest](https:/github.com/jacoby/SVGTest)
 
+
+### Day 22: January 26, 2019 (SVGTest)
+
+**Today's Progress**: Working on string skipping
+
+**Thoughts:** Harder than it should be. Also, took a day for laundry and cold, and will not apologize.
+
+**Link to work:** [SVGTest](https:/github.com/jacoby/SVGTest)
+
