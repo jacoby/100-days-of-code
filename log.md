@@ -202,3 +202,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [SVGTest](https:/github.com/jacoby/SVGTest)
 
+
+### Day 23: January 27, 2019 (SVGTest)
+
+**Today's Progress**: Pulled circles CSS and JS into separate files
+
+**Thoughts:** Played some with audio, but while I could start beeps, I could not stop them. Need to play with that more.
+
+**Link to work:** [SVGTest](https:/github.com/jacoby/SVGTest)
+
