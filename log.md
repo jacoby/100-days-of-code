@@ -211,3 +211,12 @@ Need to get the beeps in as well.
 
 **Link to work:** [SVGTest](https:/github.com/jacoby/SVGTest)
 
+
+### Day 24: January 29, 2019 (SVGClock)
+
+**Today's Progress**: Placed circles to indicate position
+
+**Thoughts:** Arcs is more my style, but I don't know how yet
+
+**Link to work:** [SVGClock](https://github.com/jacoby/SVGClock)
+
